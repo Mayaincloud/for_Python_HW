@@ -1,0 +1,35 @@
+Имя: .git
+Флаг каталога: True
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ
+
+Имя: .gitignore
+Флаг каталога: False
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ\Exeptions_DZ
+
+Имя: .idea
+Флаг каталога: True
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ
+
+Имя: Exeptions_DZ
+Расширение: .iml
+Флаг каталога: False
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ\Exeptions_DZ
+
+Имя: out
+Флаг каталога: True
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ
+
+Имя: src
+Флаг каталога: True
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ
+
+Имя: Иванов
+Расширение: .txt
+Флаг каталога: False
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ\Exeptions_DZ
+
+Имя: Косых
+Расширение: .txt
+Флаг каталога: False
+Название родительского каталога: C:\Users\Ольга\Desktop\Exeptions_DZ\Exeptions_DZ
+
